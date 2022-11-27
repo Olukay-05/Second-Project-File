@@ -3,7 +3,7 @@ package c1;
 public class SortingArrays {
 
     public static void main(String[] args) {
-        int[] numbers = new int[]{40, 30, 20, 1, 2, 3, 9, 7, 499, 305};
+        int[] numbers = {40, 30, 20, 1, 2, 3, 9, 7, 499, 305};
         Sort();
     }
 
